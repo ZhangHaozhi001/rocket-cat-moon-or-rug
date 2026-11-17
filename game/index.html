@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Rocket Cat: Moon or Rug</title>
+<style>
+  html, body { margin:0; padding:0; background:#070b1d; height:100%; overflow:hidden;
+    font-family:"Trebuchet MS","Segoe UI",Verdana,sans-serif; }
+  #wrap { position:fixed; inset:0; display:flex; align-items:center; justify-content:center;
+    background:radial-gradient(1200px 700px at 50% 30%, #101a3f 0%, #070b1d 60%); }
+  canvas { display:block; border-radius:10px; box-shadow:0 18px 60px rgba(0,0,0,.55), 0 0 0 2px #1d2a55;
+    touch-action:none; }
+</style>
+</head>
+<body>
+<div id="wrap"><canvas id="game" width="960" height="540"></canvas></div>
+<script src="src/config.js"></script>
+<script src="src/random.js"></script>
+<script src="src/audio.js"></script>
+<script src="src/input.js"></script>
+<script src="src/world.js"></script>
+<script src="src/render.js"></script>
+<script src="src/shots.js"></script>
+<script src="src/main.js"></script>
+</body>
+</html>
