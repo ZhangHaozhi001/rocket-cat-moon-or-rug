@@ -1,5 +1,11 @@
 # Rocket Cat: Moon or Rug
 
+[![make.fun best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01)
+[![rank](https://make.fun/badge/best-game-01/ZhangHaozhi001/rocket-cat-moon-or-rug/rank.svg)](https://make.fun/bounty/best-game-01)
+[![reward](https://make.fun/badge/best-game-01/ZhangHaozhi001/rocket-cat-moon-or-rug/reward.svg)](https://make.fun/bounty/best-game-01)
+
+An entry to make.fun's [best-game-01 bounty](https://make.fun/bounty/best-game-01) — "Make the best game".
+
 A 60-second arcade dodger about the oldest story in crypto: a cat, a rocket,
 and a chart that wants to kill her.
 
